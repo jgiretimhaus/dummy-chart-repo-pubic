@@ -3,6 +3,16 @@ entries:
   PapaNoel:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-12-08T16:41:41.017396107Z"
+    description: A Helm chart for Kubernetes
+    digest: 948baf7b6be67796178dc3e55a4152c8454f872d41e899f8cd498a8cda0c3d08
+    name: PapaNoel
+    type: application
+    urls:
+    - https://github.com/jgiretimhaus/dummy-chart-repo-pubic/releases/download/PapaNoel-1.1.0/PapaNoel-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-08T16:36:36.746356107Z"
     description: A Helm chart for Kubernetes
     digest: 3d1bd12463e0ef17eedabbd52152dd8a14d861325a14b274782b5ee058bf679f
@@ -14,6 +24,16 @@ entries:
   dmo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-12-08T16:41:41.164725565Z"
+    description: A Helm chart for Kubernetes
+    digest: 90f666b49b4a6274b2f4f5355a69c5ab4c869ece8ec8368c291f1f952bf0e00a
+    name: dmo
+    type: application
+    urls:
+    - https://github.com/jgiretimhaus/dummy-chart-repo-pubic/releases/download/dmo-2.2.0/dmo-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-08T16:36:36.864075802Z"
     description: A Helm chart for Kubernetes
     digest: f47d1ec823463dc9beb9283fda23554b8929b4631fbf281219505dfde2f53f1b
@@ -22,4 +42,4 @@ entries:
     urls:
     - https://github.com/jgiretimhaus/dummy-chart-repo-pubic/releases/download/dmo-2.1.0/dmo-2.1.0.tgz
     version: 2.1.0
-generated: "2022-12-08T16:36:36.864079702Z"
+generated: "2022-12-08T16:41:41.164736565Z"
